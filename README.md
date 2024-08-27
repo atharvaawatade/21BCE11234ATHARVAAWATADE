@@ -2,6 +2,9 @@
 
 ChessWicket is a turn-based chess-like game where two players can compete against each other. The game features custom characters with unique movement patterns and a dynamic game board. Players can join a game using a 5-digit code and take turns to move their characters strategically.
 
+![image](https://github.com/user-attachments/assets/5790fb30-11e2-4fb5-af00-294e7490c945)
+
+
 ## Features
 
 - **Custom Characters**: The game includes the following characters:
