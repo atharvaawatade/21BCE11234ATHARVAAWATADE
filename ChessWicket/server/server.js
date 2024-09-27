@@ -19,7 +19,7 @@ app.use(express.json());
 app.use('/api', GameRoutes);
 
 mongoose
-  .connect('mongodb+srv://atharva2021:123@cluster0.so5reec.mongodb.net/', {
+  .connect(' ', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
